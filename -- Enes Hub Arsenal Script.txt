@@ -1,0 +1,3 @@
+-- Enes Hub Arsenal Script
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Enes03232/EnesHub-Arsenal/main/Enes%20HUB%20-%20Arsenal.lua"))()
